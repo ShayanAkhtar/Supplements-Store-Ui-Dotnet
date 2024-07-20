@@ -1,4 +1,4 @@
-# Supplements Store UI - .NET
+# Supplements-Store-Ui-Dotnet
 
 Welcome to the Supplements Store UI project built using .NET. This repository contains the frontend code for a supplements store application. The main features of the application include product listings, a shopping cart, user authentication, and order management.
 
@@ -23,8 +23,8 @@ Welcome to the Supplements Store UI project built using .NET. This repository co
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ShayanAkhtar/Supplements-Store-Ui-.NET.git
-    cd Supplements-Store-Ui-.NET
+    git clone https://github.com/ShayanAkhtar/Supplements-Store-Ui-Dotnet.git
+    cd Supplements-Store-Ui-Dotnet
     ```
 
 2. **Install dependencies**:
@@ -53,20 +53,21 @@ Once the application is running, you can access it in your web browser at `http:
 
 ## Screenshots
 
+### SignUp
+![SignUp](Screenshots/Signup.png)
+
+### SignIn
+![SignIn](Screenshots/Signin.png)
+
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](Screenshots/Home.png)
 
 ### Product Listing
-![Product Listing](screenshots/product_listing.png)
+![Product Listing](Screenshots/Products_Listing.png)
 
 ### Shopping Cart
-![Shopping Cart](screenshots/shopping_cart.png)
+![Shopping Cart](Screenshots/Cart.png)
 
-### Checkout
-![Checkout](screenshots/checkout.png)
-
-### User Profile
-![User Profile](screenshots/user_profile.png)
 
 ## Contributing
 
